@@ -29,4 +29,4 @@ Build steps for Linux or MacOS
 4. Run the linuxdeployqt or macdeployqt command depending on your platform
 
 
-![alt text](https://github.com/ferrellsl/VideoPlayerd/blob/main/screenshot.png?raw=true)
+![alt text](https://github.com/ferrellsl/VideoPlayer/blob/main/screenshot.png?raw=true)
