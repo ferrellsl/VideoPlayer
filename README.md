@@ -27,3 +27,6 @@ Build steps for Linux or MacOS
 2. Run qmake
 3. Run the make command
 4. Run the linuxdeployqt or macdeployqt command depending on your platform
+
+
+![alt text](https://github.com/ferrellsl/VideoPlayerd/blob/main/screenshot.png?raw=true)
