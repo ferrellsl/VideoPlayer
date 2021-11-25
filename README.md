@@ -15,18 +15,11 @@ For cameras not using authentication use the following template: rtsp://x.x.x.x:
 This player was built using QT5.6.  
 
 Build steps for 64-bit Windows:
-1. Open a visual Studio x64 command propt and run qmake
-2. Next, run nmake
+1. Open a Visual Studio x64 command prompt and run qmake.
+2. Next, run nmake.
 3. After a successful build, copy the ffmpeg DLL files into x64/Release folder.
-4. Run the windeployqt command to ensure that all the QT DLL's and support files are included in the Release directory
-5. The resulting videoplayer.exe can be run for this directory or bundled with an installer
-
-
-Build steps for Linux or MacOS
-1. Download, build, and install ffmpeg from the experimantal branch I mentioned above as well as SDL2
-2. Run qmake
-3. Run the make command
-4. Run the linuxdeployqt or macdeployqt command depending on your platform
+4. Run the windeployqt command to ensure that all the QT DLL's and support files are included in the Release directory.
+5. The resulting videoplayer.exe can be run for this directory or bundled with an installer.  See the releases section of the repo for a full installer.
 
 
 ![alt text](https://github.com/ferrellsl/VideoPlayer/blob/main/screenshot.png?raw=true)
