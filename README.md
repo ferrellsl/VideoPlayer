@@ -9,7 +9,7 @@ This fork was created for people who are early adopters of the new north America
 
 For owners of SiliconDust HDHomeRun 4K tuners, vieweing an ATSC3.0 video stream is as easy as entering the URL for a particular channel as found in your tuner's channel lineup.  I.e. http://x.x.x.x:5004/auto/vyyy.y  Replace the X's with the IP address of your tuner and replace the Y's with the channel number you want to watch.  Allow 10 to 15 seconds of buffering before the video/audio appears.
 
-This player also supports playback from local files and from rtsp:// camera streams.  For password protected camera streams use this URL as a template for connectiog to your camera: rtsp://admin:password@x.x.x.x:554/path-of-your-stream
+This player also supports playback from local files and from rtsp:// camera streams.  For password protected camera streams use this URL as a template for connecting to your camera: rtsp://admin:password@x.x.x.x:554/path-of-your-stream
 For cameras not using authentication use the following template: rtsp://x.x.x.x:554/path-of-your-stream
 
 This player was built using QT5.6.  
