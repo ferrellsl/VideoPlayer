@@ -4,7 +4,6 @@
 This is a fork of the video player found here:  https://github.com/yundiantech/VideoPlayer
 
 This fork has been updated to support Dolby AC-4 audio streams by compiling it against an experimental version of ffmpeg that supports Dolby AC-4 audio.
-You can find the experimental verion of ffmpeg here:  https://github.com/richardpl/FFmpeg/tree/ac4
 
 This fork was created for people who are early adopters of the new north American ATSC3.0 broadcasting standard.  Most major US cities have conducted a rollout of this new boradcasting standard that supports 4K HEVC, over-the-air (OTA), television broadcast streams.
 
