@@ -30,3 +30,4 @@ Build steps for Linux or MacOS
 
 
 ![alt text](https://github.com/ferrellsl/VideoPlayer/blob/main/screenshot.png?raw=true)
+
