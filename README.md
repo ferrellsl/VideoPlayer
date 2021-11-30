@@ -1,9 +1,11 @@
 # VideoPlayer
-# Qt+ffmpeg+SDL2+Dolby+AC-4+AC4+HEVC+ATSC3.0+4K+video 
+
+![alt text](https://github.com/ferrellsl/VideoPlayer/blob/main/screenshot.png?raw=true)
 
 This is a fork of the video player found here:  https://github.com/yundiantech/VideoPlayer
 
-This fork has been updated to support Dolby AC-4 audio streams by compiling it against an experimental version of ffmpeg that supports Dolby AC-4 audio.
+This fork has been updated to support ATSC3.0/HEVC video and Dolby AC-4 audio streams by compiling it against an experimental version of ffmpeg that supports Dolby AC-4 audio.
+Contact me if you'd like the sources for this experimental version of ffmpeg.
 
 This fork was created for people who are early adopters of the new north American ATSC3.0 broadcasting standard.  Most major US cities have conducted a rollout of this new broadcasting standard that supports 4K HEVC video with Dolby AC-4 audio , over-the-air (OTA), television broadcast streams.
 
@@ -23,5 +25,5 @@ Build steps for 64-bit Windows:
 5. The resulting videoplayer.exe can be run for this directory or bundled with an installer.  See the releases section of the repo for a full installer.
 
 
-![alt text](https://github.com/ferrellsl/VideoPlayer/blob/main/screenshot.png?raw=true)
+
 
