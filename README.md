@@ -2,13 +2,12 @@
 
 ![alt text](https://github.com/ferrellsl/VideoPlayer/blob/main/screenshot.png?raw=true)
 
-This is a fork of the video player found here:  https://github.com/yundiantech/VideoPlayer
-The installer for version 2.1.5 of this video player can be found in the release section of this repo.  It is a 64-bit MS Windows build.
+The installer for version 2.1.5 of this video player can be found in the release section of this repo.  It is a 64-bit MS Windows build. If your rsystem complains about missing DLLs after installation, locate the vcredist_x64.exe file in the installation folder and run it to install the missing DLL files.
 
-This fork has been updated to support ATSC3.0/HEVC video and Dolby AC-4 audio streams by compiling it against an experimental version of ffmpeg that supports Dolby AC-4 audio.
+This player supports ATSC3.0/HEVC video and Dolby AC-4 audio streams by compiling it against an experimental version of ffmpeg that supports Dolby AC-4 audio.
 Contact me if you'd like the sources for this experimental version of ffmpeg.
 
-This fork was created for people who are early adopters of the new north American ATSC3.0 broadcasting standard.  Most major US cities have conducted a rollout of this new broadcasting standard that supports 4K HEVC video with Dolby AC-4 audio , over-the-air (OTA), television broadcast streams.
+This player was created for people who are early adopters of the new north American ATSC3.0 broadcasting standard.  Most major US cities have conducted a rollout of this new broadcasting standard that supports 4K HEVC video with Dolby AC-4 audio , over-the-air (OTA) television broadcast streams.
 
 For owners of SiliconDust HDHomeRun 4K tuners, viewing an ATSC3.0 video stream is as easy as entering the URL for a particular channel as found in your tuner's channel lineup.  I.e. http://x.x.x.x:5004/auto/vyyy.y  Replace the X's with the IP address of your tuner and replace the Y's with the channel number you want to watch.  Allow 10 to 15 seconds of buffering before the video/audio appears.
 
