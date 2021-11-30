@@ -3,6 +3,7 @@
 ![alt text](https://github.com/ferrellsl/VideoPlayer/blob/main/screenshot.png?raw=true)
 
 This is a fork of the video player found here:  https://github.com/yundiantech/VideoPlayer
+The installer for version 2.1.5 of this video player can be found in the release section of this repo.  It is a 64-bit MS Windows build.
 
 This fork has been updated to support ATSC3.0/HEVC video and Dolby AC-4 audio streams by compiling it against an experimental version of ffmpeg that supports Dolby AC-4 audio.
 Contact me if you'd like the sources for this experimental version of ffmpeg.
