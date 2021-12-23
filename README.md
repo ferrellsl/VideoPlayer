@@ -22,6 +22,7 @@ Build steps for 64-bit Windows:
 3. After a successful build, copy the ffmpeg DLL files into x64/Release folder.
 4. Run the windeployqt command to ensure that all the QT DLL's and support files are included in the Release directory.
 5. The resulting videoplayer.exe can be run for this directory or bundled with an installer.  See the releases section of the repo for a full installer.
+6. After installing, if Windows complains about missing Visual C runtime files, locate vcredist_x64.exe inside the installation folder and run it to install the needed DLL's.
 
 
 
