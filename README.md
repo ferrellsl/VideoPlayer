@@ -27,6 +27,8 @@ Build steps for 64-bit Windows:
 If you're looking for a version of Kodi that supports AC-4 audio follow the instructions in this thread:
 https://github.com/ferrellsl/VideoPlayer/commit/d2bfce75accbc8178bbd0c3688cf3f5d2cb25dd1
 
+You can get the installer for it here:  https://www.dropbox.com/s/735ttiejrq48vva/Kodi-Matrix-AC4-setup.exe?dl=0
+
 It is assumed that the user is familiar with NextPVR and how to configure it properly as a backend for Kodi.
 
 
