@@ -24,10 +24,9 @@ Build steps for 64-bit Windows:
 5. The resulting videoplayer.exe can be run for this directory or bundled with an installer.  See the releases section of the repo for a full installer.
 6. After installing, if Windows complains about missing Visual C runtime files, locate vcredist_x64.exe inside the installation folder and run it to install the needed DLL's.
 
-If you're looking for a version of Kodi that supports AC-4 audio follow the instructions in this thread:
-https://github.com/ferrellsl/VideoPlayer/commit/d2bfce75accbc8178bbd0c3688cf3f5d2cb25dd1
+If you're looking for a version of Kodi that supports AC-4 audio follow the link below:
+https://github.com/ferrellsl/kodi-ac4/releases/tag/v21.3-ac4.2
 
-You can get the installer for it here:  https://www.dropbox.com/s/735ttiejrq48vva/Kodi-Matrix-AC4-setup.exe?dl=0
 
 It is assumed that the user is familiar with NextPVR and how to configure it properly as a backend for Kodi.
 
