@@ -27,7 +27,8 @@ Build steps for 64-bit Windows:
 If you're looking for a version of Kodi that supports AC-4 audio follow the link below:
 https://github.com/ferrellsl/kodi-ac4/releases/tag/v21.3-ac4.2
 
-
 It is assumed that the user is familiar with NextPVR and how to configure it properly as a backend for Kodi.
+
+If you're looking for a version of ffmpeg that supprts AC-4 audio, go here: https://github.com/ferrellsl/ffmpeg-ac4
 
 
