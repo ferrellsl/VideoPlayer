@@ -24,8 +24,10 @@ Build steps for 64-bit Windows:
 5. The resulting videoplayer.exe can be run for this directory or bundled with an installer.  See the releases section of the repo for a full installer.
 6. After installing, if Windows complains about missing Visual C runtime files, locate vcredist_x64.exe inside the installation folder and run it to install the needed DLL's.
 
-If you're looking for a version of Kodi that supports AC-4 audio follow the link below:
+If you're looking for a version of Kodi that supports AC-4 audio, follow the link below:
 https://github.com/ferrellsl/kodi-ac4/releases/tag/v21.3-ac4.2
+
+Android and FireStick/FireTV builds are also located at the same link but the FireStick/FireTV build remains untested as I don't own either one.  If you have problems with it please leave a note in the "Issues" section of my Kodi repo.  The Windows and Android builds have been thoroughly tested and work well on many different systems.
 
 Support: This build is shared as-is, for anyone it’s useful to. I can’t provide help with installing or configuring Kodi, skins or add-ons. For that, please use the Kodi forum (forum.kodi.tv). Bug reports about AC-4 audio itself are welcome as GitHub issues.
 
