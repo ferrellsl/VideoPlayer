@@ -31,7 +31,7 @@ Android and FireStick/FireTV builds are also located at the same link but the Fi
 
 Support: This build is shared as-is, for anyone it’s useful to. I can’t provide help with installing or configuring Kodi, skins or add-ons. For that, please use the Kodi forum (forum.kodi.tv). Bug reports about AC-4 audio itself are welcome as GitHub issues.
 
-It is assumed that the user is familiar with NextPVR and how to configure it properly as a back-end for Kodi. Please use the NextPVR forums if you need help setting it up to work as a back-end for Kodi.
+If you use a SiliconDust tuner just activate the bundled Direct-Tuner-PVR Add-On in Kodi's Add-Ons section and Kodi will automatically find your tuner, no need to install or configure  NextPVR or another DVR back-end at all. If you want unattended recording ability using the Direct-Tuner-PVR add-on,  install the Direct-Tuner-Recorder service ( found here:  https://github.com/ferrellsl/Direct-Tuner-Recorder ) on the the PC where you want to store your recordings first and Kodi will find it provided you've enabled the Direct-Tuner-PVR Add-On.  The Direct-Tuner-PVR add-on will also use your SiliconDust tuner's EPG guide data if you don't specify an XMLTV file but will happily use XMLTV files created by Schedules Direct or Zap2XML. Just point the Add-On to where it's located.
 
 If you're looking for a version of ffmpeg that supprts AC-4 audio, go here: https://github.com/ferrellsl/ffmpeg-ac4
 
